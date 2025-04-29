@@ -1,6 +1,9 @@
 _repo: Kullan-voima-b-romaani_75612
 _version: 0.1.0
 alternative_title: The gates of wrath. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bennett, Arnold
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/859
     wikipedia: https://en.wikipedia.org/wiki/Arnold_Bennett
 description: 'Reading ease score: 44.9 (College-level). Difficult to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75612#Kullan-voima-b-romaani
 gutenberg_bookshelf: 'Browsing: Fiction'
 gutenberg_issued: '2025-03-13'
 gutenberg_type: Text
